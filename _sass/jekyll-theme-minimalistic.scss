@@ -63,6 +63,7 @@ a {
 
 a:hover, a:focus {
   color: var(--clr-a-text-hvr);
+  text-decoration:underline;
 }
 
 a small {
