@@ -75,10 +75,12 @@ a small {
 
 a:hover small {
   color: var(--clr-small-in-a);
+  text-decoration:underline;
 }
 
 .addr a:hover, a:focus {
   color: var(--clr-a-text-hvr);
+  text-decoration:underline;
 }
 
 ul.link a {
@@ -87,6 +89,7 @@ ul.link a {
 
 ul.link a:hover, a:focus {
   color: var(--clr-a-text-hvr);
+  text-decoration:underline;
 }
 
 ul.content {
